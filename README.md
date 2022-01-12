@@ -1,2 +1,2 @@
 # Regression
-Solving regression based problems.
+Machine Learning Regression based problems - Practice Repository
